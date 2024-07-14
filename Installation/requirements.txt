@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-aws
+langchain-chroma
+chroma
+boto3
+beautifulsoup4
+python-dotenv
+gradio
+pypdf
